@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=towhidislam772&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trophies" />
+    <img src="[https://github-profile-trophy.vercel.app/?username=towhidislam772&theme=tokyonight&no-frame=true&column=7&margin-w=10](https://github-profile-trophy.vercel.app/?username=towhidislam772&theme=tokyonight&no-frame=true&column=7&margin-w=10&no-bg=true)" alt="Trophies" />
   </a>
 </p>
 
@@ -98,7 +98,7 @@
 </p>
 
 <p align="center">
-  <img width="82%" src="https://github-readme-activity-graph.vercel.app/graph?username=towhidislam772&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+  <img width="82%" src="[https://github-readme-activity-graph.vercel.app/graph?username=towhidislam772&theme=tokyo-night&hide_border=true&area=true](https://github-activity-graph.vercel.app/graph?username=towhidislam772&theme=tokyo-night&hide_border=true&area=true)" alt="Contribution graph" />
 </p>
 
 ---
