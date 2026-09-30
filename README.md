@@ -31,9 +31,12 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="[https://github-profile-trophy.vercel.app/?username=towhidislam772&theme=tokyonight&no-frame=true&column=7&margin-w=10](https://github-profile-trophy.vercel.app/?username=towhidislam772&theme=tokyonight&no-frame=true&column=7&margin-w=10&no-bg=true)" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=towhidislam772&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trophies" />
   </a>
 </p>
+
+<!-- Backup if trophy service is down: uncomment the line below and comment out the one above -->
+<!-- <img src="https://github-trophies.vercel.app/?username=towhidislam772&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trophies" /> -->
 
 ---
 
@@ -98,8 +101,11 @@
 </p>
 
 <p align="center">
-  <img width="82%" src="[https://github-readme-activity-graph.vercel.app/graph?username=towhidislam772&theme=tokyo-night&hide_border=true&area=true](https://github-activity-graph.vercel.app/graph?username=towhidislam772&theme=tokyo-night&hide_border=true&area=true)" alt="Contribution graph" />
+  <img width="82%" src="https://github-readme-activity-graph.vercel.app/graph?username=towhidislam772&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 </p>
+
+<!-- If activity graph is down, uncomment this fallback: -->
+<!-- <img width="82%" src="https://github-readme-stats.vercel.app/api?username=towhidislam772&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> -->
 
 ---
 
@@ -108,8 +114,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/towhidislam772/towhidislam772/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
-
-> 💡 *To enable the snake, add the [Snake Game workflow](https://github.com/Platane/snk) to your profile repo.*
 
 ---
 
